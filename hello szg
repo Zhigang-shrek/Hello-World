@@ -1,0 +1,5 @@
+sub helloworld
+  dim a as string
+  a = "Hello World"
+  msgbox a
+end sub
